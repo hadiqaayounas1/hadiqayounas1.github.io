@@ -1,0 +1,26 @@
+body {
+  background-color: #f5e6e0; /* beige + pink mix */
+}
+.cv-box {
+  background-color:.cv-box {
+  background-color: #fff0f0; /* halka baby pink - pura CV pink */
+  color: #3d2b1f;
+}
+ {
+  .top h1 {
+  color: #b23a48; /* tumhara naam ab pink */
+}
+}
+.top h2 {
+  color: #b23a48; /* Web Developer pink me */
+  font-weight: bold;
+}
+h3 {
+  color: #b23a48; /* headings pink */
+  border-bottom: 2px solid #f9c6c8;
+}
+.left {
+  background-color: #fff0f0; /* left side halka pink */
+  padding: 15px;
+  border-radius: 10px;
+}
